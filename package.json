@@ -11,7 +11,7 @@
   "dependencies": {
     "leaflet": "^1.9.4",
     "mysql2": "^3.14.1",
-    "next": "^15.3.3",
+    "next": "^16.4.2",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-leaflet": "^5.0.0"
